@@ -1,0 +1,24 @@
+{
+  "name": "nodejs_pro_hoidanit",
+  "version": "1.0.0",
+  "description": "hoc nodejs pro",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datb2404981/Nodejs_Pro_hoidanIt.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": "Van Dat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datb2404981/Nodejs_Pro_hoidanIt/issues"
+  },
+  "homepage": "https://github.com/datb2404981/Nodejs_Pro_hoidanIt#readme"
+}
